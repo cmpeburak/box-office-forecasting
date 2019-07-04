@@ -2,7 +2,7 @@
 A comprehensive open data set is created by crawling and integrating information from various sources. This data set will be made publicly available to the research community. The data set contains various features about the movies ranging from basic information like actors, genre and run time to economic information like budget, revenue and number of screens that show the movie. Also, all YouTube user comments that were made on the movie trailer are added to the data set.
 
 There are two type data files in this repository:
-* movie-master
+* movie-master <br>
 'actor', 'director', 'genre', 'movie_id', 'name', 'rating', 'runtime',
 'votes', 'year', 'release_date', 'index', 'video_id', 'view_count',
 'like_count', 'dislike_count', 'comment_count', 'budget', 'revenue',
@@ -13,7 +13,7 @@ There are two type data files in this repository:
 'w_polarity_avg', 'pos_neg_ratio', 'pos_neg_ratio_1', 'pos_neg_ratio_3',
 'pos_neg_ratio_5'
 
-* youtube-comments (splitted into multiple files)
+* youtube-comments (splitted into multiple files) <br>
 Columns: 'video_id', 'comment', 'comment_date', 'comment_like'
 
 Detailed information about the data will be added here.
