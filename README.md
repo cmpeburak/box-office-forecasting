@@ -1,4 +1,8 @@
-# box-office-open-data
+This repository includes some codes that I've written for a master thesis with the title of "Using reviews on the web to predict Box Office success with deep neural networks".
+
+Codes to retrieve data from various sources, the data itself, codes to analyze the data and machine learning models used in the prediction are provided and ready to use.
+
+## box-office-open-data
 A comprehensive open data set is created by crawling and integrating information from various sources. This data set will be made publicly available to the research community. The data set contains various features about the movies ranging from basic information like actors, genre and run time to economic information like budget, revenue and number of screens that show the movie. Also, all YouTube user comments that were made on the movie trailer are added to the data set.
 
 There are two type data files in this repository:
