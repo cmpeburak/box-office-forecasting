@@ -1,4 +1,4 @@
-This repository includes some codes that I've written for a master thesis with the title of "Using reviews on the web to predict Box Office success with deep neural networks".
+This repository includes some codes that I've written for a master thesis with the title of "Using reviews on the web to predict Box Office success with machine learning methods".
 
 Codes to retrieve data from various sources, the data itself, codes to analyze the data and machine learning models used in the prediction are provided and ready to use.
 
